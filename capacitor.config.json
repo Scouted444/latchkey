@@ -1,0 +1,11 @@
+{
+  "appId": "com.doorknobinteractive.latchkey",
+  "appName": "Latchkey",
+  "webDir": "www",
+  "backgroundColor": "#0c0d10",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#0c0d10",
+    "allowsLinkPreview": false
+  }
+}
