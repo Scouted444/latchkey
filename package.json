@@ -1,0 +1,14 @@
+{
+  "name": "latchkey-ios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Latchkey iOS wrapper (Capacitor) built in the cloud and sent to TestFlight",
+  "dependencies": {
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/ios": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.0.0"
+  }
+}
